@@ -1,7 +1,7 @@
 # Summary of lecture 1
 ## 01-Gene and Genome
 ### definition
-A gene is a piece of __information__ 
+A gene is a piece of __information__
 A genome is a set of genes
 
 ### size&number of human genome&genes
@@ -41,7 +41,7 @@ computational algorithm
 1. information
   * images/sequences
 
-  
+
 2. model
   * definition: output analysis of the input data
   * could be the result of running the machine-learning algorithm
