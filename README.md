@@ -6,8 +6,8 @@ A genome is a set of genes
 
 ### size&number of human genome&genes
 * Homo sapiens don't have the largest genome:
-Human-3Gbp
-Amoeba-670 Gbp
+  Human-3Gbp
+  Amoeba-670 Gbp
 
 * Homo sapiens also have few genes compared to organisms with lower complexity
   Human-21,000
@@ -40,16 +40,22 @@ computational algorithm
    
 1. information
   * images/sequences
+
+  
 2. model
   * definition: output analysis of the input data
   * could be the result of running the machine-learning algorithm
   * used for prediction on new data
+
   * different types of models:
-  1. regression model: e.g. linear regression / logistic regression
-  2. tree model
+    1. regression model: e.g. linear regression / logistic regression
+    2. tree model
+
+
 3. algorithm
   * general approach of analyzing data
   * used for generating a model in machine learning
+
   * different types of algorithms:
-  1. number sorting algorithm
-  2. dynamic programming algorithm
+    1. number sorting algorithm
+    2. dynamic programming algorithm
