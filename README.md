@@ -1,10 +1,10 @@
 # Summary of lecture 1
-##01-Gene and Genome
-###definition
+## 01-Gene and Genome
+### definition
 A gene is a piece of __information__ 
 A genome is a set of genes
 
-###size&number of human genome&genes
+### size&number of human genome&genes
 *Homo sapiens don't have the largest genome:
 Human-3Gbp
 Amoeba-670 Gbp
@@ -13,7 +13,7 @@ Amoeba-670 Gbp
 Human-21,000
 C.elegans-20,000
 
-###non-coding sequences of the human genome
+### non-coding sequences of the human genome
 *high percent of genome not coding for protein
 *some regions are not transcribed at all
 *different types of non-protein-coding RNAs
@@ -21,13 +21,13 @@ C.elegans-20,000
 ..*miRNA
 ..*LincRNAs
 
-##02-Sequencing & Computing
-###sequencing: __*obtaining*__ information about the code of life
+## 02-Sequencing & Computing
+### sequencing: __*obtaining*__ information about the code of life
 *sequencing technologies:revolution
 ..*single molecule sequencing
 ..*big and high-dimensional data
 
-###computing: bioinformatics
+### computing: bioinformatics
 
 3 steps of bioinformatics
 1. information
