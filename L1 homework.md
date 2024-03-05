@@ -46,8 +46,7 @@ chr_IV  ensembl start_codon     1802    1804    .       +      0gene_id "YDL248W
 3. sed 替換chr_為chromosome，并輸出1，3，4，5行
 
 ```
-test@bioinfo_docker:~/share$ sed 's/chr_/chromosome_/g' test_com
-mand.gtf | sed -n '1p;3,5p'
+test@bioinfo_docker:~/share$ sed 's/chr_/chromosome_/g' test_command.gtf | sed -n '1p;3,5p'
 chromosome_IV   ensembl gene    1802    2953    .       +      .gene_id "YDL248W"; gene_version "1";
 chromosome_IV   ensembl exon    1802    2953    .       +      .gene_id "YDL248W"; gene_version "1";
 chromosome_IV   ensembl CDS     1802    950     .       +      0gene_id "YDL248W"; gene_version "1";
